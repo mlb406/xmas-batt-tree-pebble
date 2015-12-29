@@ -1,0 +1,18 @@
+{
+  "uuid": "aceab27c-1a49-4d36-880c-d065cb707f71",
+  "shortName": "Batt-tree",
+  "longName": "Batt-tree",
+  "companyName": "Max Beckett",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
